@@ -12,8 +12,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghav0303" alt="raghav0303" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/raghavjoshi03" target="blank"><img src="https://img.shields.io/twitter/follow/raghavjoshi03?logo=twitter&style=for-the-badge" alt="raghavjoshi03" /></a> </p>
-
 - 🌱 I’m currently learning **everything**
 
 - 📫 How to reach me **raghav03032002joshi@gmail.com**
